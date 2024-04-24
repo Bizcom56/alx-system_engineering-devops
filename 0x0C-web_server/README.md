@@ -1,0 +1,1 @@
+This project was completed as part of the Full Stack Software Engineering curriculum at ALX. Its main objective was to gain understanding of web servers, including their roles, processes (parent and child), and DNS functionalities.
